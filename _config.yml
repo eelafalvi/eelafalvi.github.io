@@ -9,7 +9,7 @@ permalink:           pretty
 # Setup
 title:               HR Today
 tagline:             'Developmental Activities'
-description:         'My Personal Blog for my day to day activities'
+description:         'My Personal Blog for day to day HR related activities'
 url:                 https://eelafalvi.github.io
 baseurl:             ''
 paginate:            5
