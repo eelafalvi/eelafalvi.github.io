@@ -1,7 +1,7 @@
 ---
 layout: post
-title: first post
-date: 2017-09-30 
+title: Being a fresh graduate is not my disadvantage
+date: 2017-11-29 
 published: true
 ---
 
